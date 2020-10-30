@@ -1,0 +1,19 @@
+body{
+    background-image: url(../images/background01.jpg);
+}
+h1{
+    color:white;
+    background-color: #000000;
+    text-align: center;
+}
+h2{
+    color:black;
+    background-color: lawngreen;
+    text-align: center;
+}
+h3{
+    color:blue;
+}
+p{
+    color:rebeccapurple;
+}

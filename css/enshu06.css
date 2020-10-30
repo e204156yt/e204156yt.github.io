@@ -1,0 +1,19 @@
+h1{
+    color:#00ffff;
+    font-size:50px;
+    font-weight:bold;
+    font-family:impact;
+    text-align:center;
+    background-color:#444444;
+}
+
+p{
+    background-color:yellow;
+}
+
+body{
+    background-image:url(../images/background01.jpg);
+    background-repeat:repeat-y;
+    //background-attachment: ;
+    //background-position: ;
+}
