@@ -14,6 +14,6 @@ p{
 body{
     background-image:url(../images/background01.jpg);
     background-repeat:repeat-y;
-    //background-attachment: ;
-    //background-position: ;
+    background-attachment:fixed;
+    background-position:right;
 }

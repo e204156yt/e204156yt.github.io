@@ -1,0 +1,19 @@
+body{
+     background-image:url(../images/background04.jpg);
+}
+h1{
+    color:azure;
+    text-align: center;
+    background-color: sandybrown;
+}
+h3{
+    color:white;
+    text-align: center;
+    background-color: orange;
+}
+table{
+  background-color: navajowhite;
+}
+ol{
+     background-image:url(../images/background02.jpg);
+}
