@@ -1,0 +1,65 @@
+div.title{
+    width:1000px;
+    height:40px;
+    background-color: gray;
+    margin-bottom:20px;
+}
+
+div.menu{
+    font-size:0;
+    width:1000px;
+    height:320px;
+    background-color: azure;
+}
+
+div.menuleft{
+    vertical-align:top;
+    display:inline-block;
+}
+
+div.menuitem1{
+    vertical-align:top;
+    width:250px;
+    height:100px;
+    background-color:red;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
+
+div.menuitem2{
+    vertical-align:top;
+    width:250px;
+    height:100px;
+    background-color:red;
+    font-size: 15px;
+}
+
+div.menuright{
+    vertical-align:top;
+    display:inline-block;
+    margin-left:  50px;
+}
+
+div.images{
+    vertical-align:top;
+    width:700px;
+    height:300px;
+    font-size:15px;
+    background-color:green;
+}
+
+div.article{
+    vertical-align:top;
+    width:700px;
+    height:20px;
+    font-size:15px;
+    background-color:blue;
+}
+
+div.footer{
+    width:1000px;
+    height:40px;
+    background-color:orange;
+    text-align: right;
+    margin-top:20px;
+}
